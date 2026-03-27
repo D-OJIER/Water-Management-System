@@ -26,12 +26,6 @@ An improved version of the same solution using clean code principles.
 * Improved readability and maintainability
 * Structured into handler and logic layers
 
-## Key Learning
-
-This project demonstrates the transition from:
-
-* Writing code for correctness → Designing code for clarity and scalability
-
 ## How to Run
 
 1. Compile the files:
